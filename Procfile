@@ -1,1 +1,1 @@
-web: npm run Metadados.Api.js
+web: npm start
