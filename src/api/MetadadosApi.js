@@ -14,7 +14,7 @@ import {
 } from '../actions/actions';
 
 // const urlBase = 'http://localhost:8080/seguranca_barragem';
-const urlBase = http://moduloespacializacao.herokuapp.com/seguranca_barragem;
+const urlBase = 'http://moduloespacializacao.herokuapp.com/seguranca_barragem';
 
 export const loadMetadados = () => async (dispatch) => {
     try {
